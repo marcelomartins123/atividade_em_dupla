@@ -21,7 +21,7 @@ namespace ConsoleApp1
             Console.Write("digite outro valor: ");
             h = int.Parse(Console.ReadLine());
             Console.WriteLine("resultado é: "+diferenca(n,h));
-            Console.Readtube();
+            Console.ReadKey();
         }
     }
 }
